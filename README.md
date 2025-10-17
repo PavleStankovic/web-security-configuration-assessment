@@ -105,6 +105,10 @@ You’re free to read and share it for educational purposes, but please **credit
 
 ---
 
+Full detailed technical report available in the PDF below.
+
+---
+
 ### ⭐ If you found this useful
 Give this repo a star 🌟 and connect with me — I’m always learning and open to collaboration!
 
